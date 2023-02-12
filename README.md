@@ -1,15 +1,15 @@
-<h1>Hello - Glad to see you here!</h1>
+<h1>Hello - Glad to see you here!</h1> 😄
 
 <p style="font-size: 18px;">
-I'm Umang Bansal, a 19 year old Python developer from India.<br>
-Into Machine learning and Data Science.
+I'm Umang Bansal, a 19 year old Python developer from India. 🇮🇳<br>
+Into Machine learning and Data Science. ❤️ 
 </p>
 
 <p style="font-size: 16px;">
 You can find more of my work on my <a href="https://github.com/Umang-Bansal">GitHub profile</a>.
 </p>
 
-<h2>Connect with Me</h2>
+<h2>Connect with Me 📚</h2>
 
 <p style="font-size: 16px;">
 Feel free to reach out to me via:
@@ -20,7 +20,7 @@ Feel free to reach out to me via:
 </p>
 
 <p style="font-size: 16px;">
-Thank you for visiting my GitHub profile!
+Thank you for visiting my GitHub profile! ❇️
 </p>
 
 <!--
