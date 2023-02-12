@@ -1,6 +1,5 @@
 <h1>Hello - Glad to see you here!</h1>
 
-****
 <p style="font-size: 18px;">
 I'm Umang Bansal, a 19 year old Python developer from India.<br>
 Into Machine learning and Data Science.
@@ -16,7 +15,7 @@ You can find more of my work on my <a href="https://github.com/Umang-Bansal">Git
 Feel free to reach out to me via:
 
 - Email: Umangbansal32@gmail.com
-- LinkedIn: linkedin.com/in/umang-bansal32
+- LinkedIn: linkedin.com/in/umang-bansal32/
 - Twitter: https://twitter.com/umang1b
 </p>
 
