@@ -9,16 +9,6 @@ Into Machine learning and Data Science. ❤️
 You can find more of my work on my <a href="https://github.com/Umang-Bansal">GitHub profile</a>.
 </p>
 
-<h2>Connect with Me 📚</h2>
-
-<p style="font-size: 16px;">
-Feel free to reach out to me via:
-
-- Email: Umangbansal32@gmail.com
-- LinkedIn: linkedin.com/in/umang-bansal32/
-- Twitter: https://twitter.com/umang1b
-</p>
-
 <p style="font-size: 16px;">
 Thank you for visiting my GitHub profile! ❇️
 </p>
